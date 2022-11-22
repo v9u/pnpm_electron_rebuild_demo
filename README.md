@@ -17,13 +17,13 @@ To run a project, you need to have node version 16 or higher and use yarn as you
 ## Setup
 ```
 # install dependencies
-$ yarn install
+$ pnpm i
 
 # serve with vite
-$ yarn dev
+$ pnpm dev
 
 # build electron application for production
-$ yarn build
+$ pnpm build
 ```
 
 ## Features
